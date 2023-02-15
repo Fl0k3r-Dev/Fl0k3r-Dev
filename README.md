@@ -4,7 +4,7 @@
 
 ![Guuh GitHub stats](https://github-readme-stats.vercel.app/api?username=Fl0k3r-Dev&show_icons=true&theme=radical)
 
-## Tecnologias que utilizo no meu dia
+## Tecnologias que utilizo no meu dia-a-dia
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
