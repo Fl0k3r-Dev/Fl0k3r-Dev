@@ -1,6 +1,6 @@
 ### Olá eu sou o Gustavo Ranci 👋
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ranci-901810171/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ranci-56b573285/)
 
 ![Guuh GitHub stats](https://github-readme-stats.vercel.app/api?username=Fl0k3r-Dev&show_icons=true&theme=radical)
 
